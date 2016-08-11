@@ -1,0 +1,15 @@
+{
+  "name": "woodpecker",
+  "version": "0.1.0",
+  "description": "",
+  "main": "woodpecker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node woodpecker.js"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "walk": "^2.3.9"
+  }
+}
